@@ -1,6 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project collabor8
+<p align="center">
+    <img src="./collaor8.jpg">
+</p>
+
+Built with Go (Golang), gRPC, and WebRTC, Collaor8 is web application where multiple users can draw on a shared whiteboard in real time, with low latency and high reliability.
 
 ## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 First, run the development server:
 
